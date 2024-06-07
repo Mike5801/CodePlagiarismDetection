@@ -3,5 +3,5 @@ queries
 train.csv
 val.csv
 test.csv
-query.csv
+queries.csv
 *.pkl

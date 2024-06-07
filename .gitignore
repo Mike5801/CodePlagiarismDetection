@@ -1,4 +1,7 @@
 data_set_splitted
 queries
-*.csv
+train.csv
+val.csv
+test.csv
+query.csv
 *.pkl
